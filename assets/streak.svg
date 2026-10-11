@@ -3,18 +3,18 @@
 <line x1="165" y1="28" x2="165" y2="170" stroke="#e4e2e2" stroke-opacity="0.5"/>
 <line x1="330" y1="28" x2="330" y2="170" stroke="#e4e2e2" stroke-opacity="0.5"/>
 <g text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif">
-  <text x="82" y="80" fill="#fe428e" font-size="28" font-weight="700">0</text>
+  <text x="82" y="80" fill="#fe428e" font-size="28" font-weight="700">4</text>
   <text x="82" y="110" fill="#fe428e" font-size="14" font-weight="600">Total Contributions</text>
   <text x="82" y="135" fill="#a9fef7" font-size="12">Oct 11, 2026 - Present</text>
 
   <circle cx="247" cy="78" r="40" fill="none" stroke="#fe428e" stroke-width="5"/>
-  <text x="247" y="88" fill="#f8d847" font-size="28" font-weight="700">0</text>
+  <text x="247" y="88" fill="#f8d847" font-size="28" font-weight="700">1</text>
   <text x="247" y="140" fill="#f8d847" font-size="14" font-weight="600">Current Streak</text>
-  <text x="247" y="160" fill="#a9fef7" font-size="12">No commits today</text>
+  <text x="247" y="160" fill="#a9fef7" font-size="12">Oct 11 - Oct 11</text>
   <text x="247" y="48" fill="#fe428e" font-size="22">🔥</text>
 
-  <text x="412" y="80" fill="#fe428e" font-size="28" font-weight="700">0</text>
+  <text x="412" y="80" fill="#fe428e" font-size="28" font-weight="700">1</text>
   <text x="412" y="110" fill="#fe428e" font-size="14" font-weight="600">Longest Streak</text>
-  <text x="412" y="135" fill="#a9fef7" font-size="12">-</text>
+  <text x="412" y="135" fill="#a9fef7" font-size="12">Oct 11 - Oct 11, 2026</text>
 </g>
 </svg>
