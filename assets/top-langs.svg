@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100" role="img" aria-label="Most Used Languages">
+<rect x="0.5" y="0.5" rx="4.5" width="299" height="99" fill="#141321" stroke="#e4e2e2"/>
+<text x="25" y="35" fill="#fe428e" font-size="18" font-weight="600" font-family="Segoe UI, Ubuntu, sans-serif">Most Used Languages</text>
+<rect x="25" y="60" width="250" height="8" rx="4" fill="#2b2a3a"/>
+
+
+</svg>
